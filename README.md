@@ -22,4 +22,4 @@ O projeto segue uma estrutura organizada por responsabilidades:
 ## 🚀 Como executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/GerenciadorTarefas.git](https://github.com/SEU_USUARIO/GerenciadorTarefas.git)
+ https://github.com/Polireis/gerenciador-tarefas-java.git
